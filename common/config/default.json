@@ -1,0 +1,4 @@
+{
+    "kafkaConnectionString": "localhost:9092",
+    "kafkaTopic": "chat-messages"
+}
